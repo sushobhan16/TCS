@@ -1,0 +1,243 @@
+{
+  "summary": {
+    "total_questions": 20,
+    "correct_retrievals": 17,
+    "retrieval_accuracy": 85.0
+  },
+  "results": [
+    {
+      "id": 1,
+      "question": "What is the hostel fee for AC accommodation?",
+      "expected_source": "2026 SOA Hostel Fee.pdf",
+      "retrieved_sources": [
+        "2026 SOA Hostel Fee.pdf",
+        "2024 BCA Academic Regulation.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 2,
+      "question": "What is the hostel fee for non-AC accommodation?",
+      "expected_source": "2026 SOA Hostel Fee.pdf",
+      "retrieved_sources": [
+        "2026 SOA Hostel Fee.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2024 BCA Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 3,
+      "question": "What is the hostel caution money amount?",
+      "expected_source": "2026 SOA Hostel Fee.pdf",
+      "retrieved_sources": [
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2026 SOA Hostel Fee.pdf",
+        "www_soa.ac.pdf",
+        "2022 Academic Regulation.pdf",
+        "2024 BCA Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 4,
+      "question": "What is the mess fee for 10 months?",
+      "expected_source": "2026 SOA Mess Fee.pdf",
+      "retrieved_sources": [
+        "2026 SOA Mess Fee.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2026 SOA Hostel Fee.pdf",
+        "2024 Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 5,
+      "question": "What is the mess fee for 12 months?",
+      "expected_source": "2026 SOA Mess Fee.pdf",
+      "retrieved_sources": [
+        "2026 SOA Mess Fee.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2024 Academic Regulation.pdf",
+        "2026 SOA Hostel Fee.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 6,
+      "question": "What is the transportation fee for Bhubaneswar?",
+      "expected_source": "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+      "retrieved_sources": [
+        "2026 SOA Transportation Fees.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2026 SOA Hostel Fee.pdf",
+        "2026 SOA Processing Fee.pdf",
+        "2026 SOA Mess Fee.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 7,
+      "question": "What is the transportation fee for Cuttack?",
+      "expected_source": "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+      "retrieved_sources": [
+        "2026 SOA Transportation Fees.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2026 SOA Hostel Fee.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 8,
+      "question": "What is the counselling fee?",
+      "expected_source": "2026 SOA Processing Fee.pdf",
+      "retrieved_sources": [
+        "2026 SOA Processing Fee.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2026 SOA Academic Fee.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 9,
+      "question": "What is the admission fee?",
+      "expected_source": "2026 SOA Processing Fee.pdf",
+      "retrieved_sources": [
+        "2026 SOA Processing Fee.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2026 SOA Academic Fee.pdf",
+        "2026 SOA Transportation Fees.pdf",
+        "2025 MCA Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 10,
+      "question": "What is the institute caution money?",
+      "expected_source": "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+      "retrieved_sources": [
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "2022 Academic Regulation.pdf",
+        "2024 Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 11,
+      "question": "What are the residence requirements for students?",
+      "expected_source": "2024 BCA Academic Regulation.pdf",
+      "retrieved_sources": [
+        "2024 BCA Academic Regulation.pdf",
+        "2025 MCA Academic Regulation.pdf",
+        "2022 Academic Regulation.pdf",
+        "2024 Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 12,
+      "question": "Which subjects are included in the B.Tech bridge course?",
+      "expected_source": "Bridge Course_B.Tech.pdf",
+      "retrieved_sources": [
+        "www_admission.soa.ac.pdf",
+        "ECE catalogue.pdf",
+        "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf",
+        "M.Tech CE Curriculum.pdf"
+      ],
+      "hit": false
+    },
+    {
+      "id": 13,
+      "question": "What is the purpose of bridge courses for MCA students?",
+      "expected_source": "Bridge Course_MCA.pdf",
+      "retrieved_sources": [
+        "2026 MCA Curriculum.pdf",
+        "2025 MCA Academic Regulation.pdf",
+        "Bridge Course_MCA.pdf",
+        "Bridge Course_B.Tech(LE).pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 14,
+      "question": "What are the major placement-related activities offered by SOA?",
+      "expected_source": "www_placements.soa.ac.pdf",
+      "retrieved_sources": [
+        "www_placements.soa.ac.pdf",
+        "2024 Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 15,
+      "question": "What is the objective of the academic regulations?",
+      "expected_source": "2022 Academic Regulation.pdf",
+      "retrieved_sources": [
+        "2022 Academic Regulation.pdf",
+        "2024 Academic Regulation.pdf",
+        "2024 BCA Academic Regulation.pdf",
+        "2025 MCA Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 16,
+      "question": "What is the objective of the BCA academic regulation?",
+      "expected_source": "2024 BCA Academic Regulation.pdf",
+      "retrieved_sources": [
+        "2024 BCA Academic Regulation.pdf",
+        "2024 Academic Regulation.pdf",
+        "2022 Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 17,
+      "question": "What is the objective of the MCA academic regulation?",
+      "expected_source": "2025 MCA Academic Regulation.pdf",
+      "retrieved_sources": [
+        "2025 MCA Academic Regulation.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 18,
+      "question": "What subjects are taught in the B.Tech bridge course?",
+      "expected_source": "Bridge Course_B.Tech.pdf",
+      "retrieved_sources": [
+        "ECE catalogue.pdf",
+        "CSE (DASC) catalogue.pdf",
+        "ME catalogue.pdf",
+        "M.Tech CE Curriculum.pdf",
+        "CE catalogue.pdf"
+      ],
+      "hit": false
+    },
+    {
+      "id": 19,
+      "question": "What topics are covered in the MCA bridge course?",
+      "expected_source": "Bridge Course_MCA.pdf",
+      "retrieved_sources": [
+        "2026 MCA Curriculum.pdf",
+        "2025 MCA Academic Regulation.pdf",
+        "Bridge Course_MCA.pdf",
+        "Bridge Course_B.Tech(LE).pdf",
+        "M.Tech CE Curriculum.pdf"
+      ],
+      "hit": true
+    },
+    {
+      "id": 20,
+      "question": "What information is available in the academic curriculum catalogues?",
+      "expected_source": "CSE catalogue.pdf",
+      "retrieved_sources": [
+        "EE catalogue.pdf",
+        "CSIT catalogue.pdf",
+        "2026 MCA Curriculum.pdf",
+        "ME catalogue.pdf"
+      ],
+      "hit": false
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the hostel fee for AC accommodation?",
+    "reference_answer": "The annual hostel fee for AC accommodation ranges from INR 1,00,000 to INR 1,40,000 depending on occupancy and facilities.",
+    "source": "2026 SOA Hostel Fee.pdf"
+  },
+  {
+    "id": 2,
+    "question": "What is the hostel fee for non-AC accommodation?",
+    "reference_answer": "The annual hostel fee for non-AC accommodation ranges from INR 65,000 to INR 75,000 depending on occupancy.",
+    "source": "2026 SOA Hostel Fee.pdf"
+  },
+  {
+    "id": 3,
+    "question": "What is the hostel caution money amount?",
+    "reference_answer": "The hostel caution money is INR 5,000 and is refundable.",
+    "source": "2026 SOA Hostel Fee.pdf"
+  },
+  {
+    "id": 4,
+    "question": "What is the mess fee for 10 months?",
+    "reference_answer": "The mess fee for 10 months is INR 50,000.",
+    "source": "2026 SOA Mess Fee.pdf"
+  },
+  {
+    "id": 5,
+    "question": "What is the mess fee for 12 months?",
+    "reference_answer": "The mess fee for 12 months is INR 60,000.",
+    "source": "2026 SOA Mess Fee.pdf"
+  },
+  {
+    "id": 6,
+    "question": "What is the transportation fee for Bhubaneswar?",
+    "reference_answer": "The transportation fee for Bhubaneswar is INR 18,000 per semester.",
+    "source": "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf"
+  },
+  {
+    "id": 7,
+    "question": "What is the transportation fee for Cuttack?",
+    "reference_answer": "The transportation fee for Cuttack is INR 30,000 per semester.",
+    "source": "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf"
+  },
+  {
+    "id": 8,
+    "question": "What is the counselling fee?",
+    "reference_answer": "The counselling fee is INR 1,000 and is non-refundable.",
+    "source": "2026 SOA Processing Fee.pdf"
+  },
+  {
+    "id": 9,
+    "question": "What is the admission fee?",
+    "reference_answer": "The admission fee is INR 4,000 and is non-refundable.",
+    "source": "2026 SOA Processing Fee.pdf"
+  },
+  {
+    "id": 10,
+    "question": "What is the institute caution money?",
+    "reference_answer": "The institute caution money is INR 5,000 and is refundable.",
+    "source": "SAAT Eligibility, Fees and Scholarship (2023 Admission Batch).pdf"
+  },
+  {
+    "id": 11,
+    "question": "What are the residence requirements for students?",
+    "reference_answer": "Students must abide by hostel rules and regulations. Permission to stay outside the hostel may be granted by the Dean or Warden under specific conditions.",
+    "source": "2024 BCA Academic Regulation.pdf"
+  },
+  {
+    "id": 12,
+    "question": "Which subjects are included in the B.Tech bridge course?",
+    "reference_answer": "The B.Tech bridge course includes Fundamentals of AI, Fundamentals of Physics, Fundamentals of Tinkering, Fundamentals of Mathematics, Fundamentals of Programming, and Fundamentals of Communication.",
+    "source": "Bridge Course_B.Tech.pdf"
+  },
+  {
+    "id": 13,
+    "question": "What is the purpose of bridge courses for MCA students?",
+    "reference_answer": "Bridge courses help MCA students develop fundamental computing and programming skills before starting the regular curriculum.",
+    "source": "Bridge Course_MCA.pdf"
+  },
+  {
+    "id": 14,
+    "question": "What are the major placement-related activities offered by SOA?",
+    "reference_answer": "SOA provides placement-related training, career guidance, skill development activities, and recruitment support for students.",
+    "source": "www_placements.soa.ac.pdf"
+  },
+  {
+    "id": 15,
+    "question": "What is the objective of the academic regulations?",
+    "reference_answer": "Academic regulations define the rules, requirements, academic structure, and evaluation processes governing degree programs.",
+    "source": "2022 Academic Regulation.pdf"
+  },
+  {
+    "id": 16,
+    "question": "What is the objective of the BCA academic regulation?",
+    "reference_answer": "The BCA academic regulation defines the academic requirements, evaluation process, and degree completion criteria for BCA students.",
+    "source": "2024 BCA Academic Regulation.pdf"
+  },
+  {
+    "id": 17,
+    "question": "What is the objective of the MCA academic regulation?",
+    "reference_answer": "The MCA academic regulation defines academic policies, evaluation procedures, and graduation requirements for MCA students.",
+    "source": "2025 MCA Academic Regulation.pdf"
+  },
+  {
+    "id": 18,
+    "question": "What subjects are taught in the B.Tech bridge course?",
+    "reference_answer": "The bridge course includes Fundamentals of AI, Physics, Tinkering, Mathematics, Programming, and Communication.",
+    "source": "Bridge Course_B.Tech.pdf"
+  },
+  {
+    "id": 19,
+    "question": "What topics are covered in the MCA bridge course?",
+    "reference_answer": "The MCA bridge course includes foundational computing concepts, programming fundamentals, and introductory software development topics.",
+    "source": "Bridge Course_MCA.pdf"
+  },
+  {
+    "id": 20,
+    "question": "What information is available in the academic curriculum catalogues?",
+    "reference_answer": "Academic curriculum catalogues contain program structures, course details, credit distribution, learning outcomes, and semester-wise curriculum information.",
+    "source": "CSE catalogue.pdf"
+  }
+]
